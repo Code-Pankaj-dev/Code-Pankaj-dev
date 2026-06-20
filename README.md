@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Pankaj Upadhyay 👋
 
-<!--
-**Code-Pankaj-dev/Code-Pankaj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Diploma Student in Computer Science Engineering
+- Learning HTML, CSS and JavaScript
+- Aspiring Frontend Web Developer
+- Passionate about Web Development and Coding
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- Responsive Web Design
+- Microsoft Office
+- Communication
+- Problem Solving
+- Teamwork
+
+## 🎯 Goals
+- Build Real World Projects
+- Get Internship Opportunities
+- Become a Frontend Web Developer
+
+## 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile link here
