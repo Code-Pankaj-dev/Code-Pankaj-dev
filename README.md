@@ -27,4 +27,5 @@
 - Become a Frontend Web Developer
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/pankaj-upadhyay-a59343418?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub: https://github.com/Code-Pankaj-dev
