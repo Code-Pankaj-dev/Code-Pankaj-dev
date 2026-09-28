@@ -71,7 +71,7 @@ A Django-based web application that helps **administrators, hospitals, and donor
 
 🔗 **Live Preview:** https://hemocampus.onrender.com/
 
-🔗 **Source Code:** https://github.com/Code-Pankaj-dev/Final-Year-Project
+🔗 **Source Code:** https://github.com/Code-Pankaj-dev/HemoCampus
 
 ---
 
